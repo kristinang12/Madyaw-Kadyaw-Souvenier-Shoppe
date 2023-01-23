@@ -45,15 +45,14 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#porfolio">Products</a></li>
+          <li><a class="nav-link scrollto " href="#product">Products</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
       
-      <a href="/login" class="button btn btn-info">Login </a>
+      <a href="/login" class="button btn btn-info">Log In </a>
 
     </div>
   </header><!-- End Header -->
@@ -64,8 +63,8 @@
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
         <div class="col-xl-6 col-lg-8">
-          <h1>Madyaw Kadyaw Souvenir Shoppe<span>.</span></h1>
-          <h2>"Ato ini, kadyawon ta"</h2>
+          <h1>MADYAW KADYAW Souvenir Shoppe<span></span></h1>
+          <h2>"KAYNA KAMII, ATO INI</h2>
         </div>
       </div>
 
@@ -113,9 +112,7 @@
         </div>
 
       </div>
-    </section><!-- End About Section -->
-
-    <!-- ======= Clients Section ======= -->
+      <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
       <div class="container" data-aos="zoom-in">
 
@@ -159,83 +156,10 @@
 
       </div>
     </section><!-- End Features Section -->
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Services</h2>
-          <p>Check our Services</p>
-          <div></div>
-     <!-- ======= Counts Section ======= -->
-     <section id="counts" class="counts">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row no-gutters">
-          <div class="image col-lg-17" style='background-image: url("assets-homepage/assets/img/features.jpg");' data-aos="fade-right"></div>
-          <div class="text-center">
-            <div class="text-center">
-            <div class="content d-flex flex-column justify-content-center">
-              <h3>Excellent Services!</h3>
-              <p>
-                We strive to be fast, efficient, and friendly when it comes to assisting customers with their personal orders. We believe in creating long-term business partnerships and want you to be successful
-              </p>
-              <div class="row">
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-emoji-smile"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="65" data-purecounter-duration="2" class="purecounter"></span>
-                    <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam architecto ut.</p>
-                  </div>
-                </div>
-
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-journal-richtext"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="2" class="purecounter"></span>
-                    <p><strong>Projects</strong> adipisci atque cum quia aspernatur totam laudantium et quia dere tan</p>
-                  </div>
-                </div>
-
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-clock"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="4" class="purecounter"></span>
-                    <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam ducimus aut voluptate non vel</p>
-                  </div>
-                </div>
-
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-award"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="4" class="purecounter"></span>
-                    <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et nemo pad der</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End .content-->
-          </div>
-        </div>
-      </div>
-
-    </section><!-- End Counts Section -->
-
-    <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container" data-aos="zoom-in">
-
-        <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
-        </div>
-
-      </div>
-    </section><!-- End Cta Section -->
+    </section><!-- End About Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <section id="product" class="portfolio">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -388,6 +312,7 @@
       </div>
     </section><!-- End Portfolio Section -->
 
+
     <!-- ======= Announcement Section ======= -->
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
@@ -483,7 +408,7 @@
 
         <div class="row mt-7">
 
-          <div class="col-lg-6">
+          <div class="col-lg-7">
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
@@ -505,10 +430,10 @@
 
              <div class="mapouter">
                  <div class="gmap_canvas">
-                    <iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Madyaw%20Kadyaw%20Souvenir%20Shoppe,%20Butuan%20City,%20Agusan%20Del%20Norte%208600,%20Philippines&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                    <iframe width="800" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Madyaw%20Kadyaw%20Souvenir%20Shoppe,%20Butuan%20City,%20Agusan%20Del%20Norte%208600,%20Philippines&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                         <a href="https://123movies-to.org">123movies</a>
                         <br>
-                        <style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style>
+                        <style>.mapouter{position:relative;text-align:right;height:500px;width:800px;}</style>
                           <a href="https://www.embedgooglemap.net">google maps on my web site</a>
                               <style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
                   </div>
